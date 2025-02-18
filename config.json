@@ -1,6 +1,6 @@
 {
     "initial_parameters": 1,
-    "initial_threads": "1000",
+    "initial_threads": "1100",
     "initial_packets": "9",
     "initial_binary": "raazz",
     "max_attack_time": 240,
