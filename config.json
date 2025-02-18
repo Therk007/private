@@ -2,7 +2,7 @@
     "initial_parameters": 1,
     "initial_threads": "1000",
     "initial_packets": "9",
-    "initial_binary": "bgmi",
+    "initial_binary": "raazz",
     "max_attack_time": 240,
     "attack_cooldown": 0,
     "cost_per_attack": 5
