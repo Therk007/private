@@ -297,7 +297,7 @@ def process_attack_details(message):
             else:
                 # Log the attack with correct variable name
                 log_command(user_id, target, port, attack_time)
-                full_command = f"./ALONE-PUSHPA {target} {port} {attack_time} 900"  # ✅ Correct variable name
+                full_command = f"./private {target} {port} {attack_time} 1000 2000"  # ✅ Correct variable name
 
                 username = message.chat.username or "No username"
 
